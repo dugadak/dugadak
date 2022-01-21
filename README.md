@@ -1,8 +1,8 @@
 <div align=center> 
   <p>
   <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:hold@kakao.com" target="_blank"><img src="https://img.shields.io/badge/nmdkims@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hold@kakao.com" target="_blank"><img src="https://img.shields.io/badge/hold@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/dugadak-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
@@ -12,7 +12,7 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=white)
   
  
 
