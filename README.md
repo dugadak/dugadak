@@ -1,11 +1,9 @@
 <div align=center> 
   <p>
-  <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-    
-  <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="http://qr.kakao.com/talk/EDx5.Ug4ivmaDVL0rC4zUWnjWIM-" target="_blank"><img src="https://img.shields.io/badge/Kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
   <a href="mailto:hold@kakao.com" target="_blank"><img src="https://img.shields.io/badge/hold@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EB%B3%91%EC%A4%80-%EC%9D%B4-006b04230/" target="_blank"><img src="https://img.shields.io/badge/dugadak-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
+  <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 <p>
   Hello I am a new developer specializing in machine learning.<br/>
