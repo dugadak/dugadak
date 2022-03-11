@@ -38,7 +38,6 @@
   
   <br>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"></a>
-  
     <a href="flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
     <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white"></a>
