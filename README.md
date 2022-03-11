@@ -24,24 +24,40 @@
 <p>
   
   <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
   <br>  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+  
   <br>
-     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+    <a href="flask.pocoo.org" target="_blank"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  
+    
   <br>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+     
+  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>  
+  
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
+  
+  <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/vscode-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 </p>
 </div>
 </div>
