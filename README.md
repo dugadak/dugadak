@@ -22,25 +22,28 @@
 
 ## Platforms & Languages
 <p>
-  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  
+  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
   
   <br>  
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-181717?style=for-the-badge&logo=slack&logoColor=white"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=github&logoColor=white">
   
   
   <br>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   
     
   <br>
