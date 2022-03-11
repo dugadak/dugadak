@@ -23,41 +23,41 @@
 ## Platforms & Languages
 <p>
   
-  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
   
   <br>  
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=notion&logoColor=white"></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-181717?style=for-the-badge&logo=slack&logoColor=white"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white"></a>
   
   
   <br>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"></a>
   
-    <a href="flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   
-    
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
   <br>
 </p>
 
 <p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
      
-  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>  
+  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>  
   
-      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
   
-  <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/vscode-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-47A248?style=for-the-badge&logo=pycharm&logoColor=white">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Vscode-47A248?style=for-the-badge&logo=vscode&logoColor=white"></a>
 </p>
 </div>
 </div>
