@@ -44,8 +44,6 @@
     <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  
-    
   <br>
 </p>
 
