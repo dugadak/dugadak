@@ -44,7 +44,7 @@
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
+    
   <br>
 </p>
 
@@ -53,7 +53,7 @@
      
   <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>  
   
-      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
   
   <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-47A248?style=for-the-badge&logo=pycharm&logoColor=white">
