@@ -23,7 +23,7 @@
 ## Platforms & Languages
 <p>
   
-  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.python.org/psf-landing/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
