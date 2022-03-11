@@ -6,7 +6,7 @@
   <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
+  Hello I am a new developer specializing in Backend development.<br/>
   We are working on it based on Python DJango.<br/><br/>
   I enjoy squash, Baduk and computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
