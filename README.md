@@ -8,7 +8,7 @@
 <p>
   Hello I am a new developer specializing in Backend development.<br/>
   We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
+  I enjoy computer game, listening to music and Reading. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
