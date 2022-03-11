@@ -49,12 +49,9 @@
 
 <p>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
-     
   <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>  
-  
-      <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-F05032?style=for-the-badge&logo=Bootstrap&logoColor=white"></a> 
-   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
-  
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-F05032?style=for-the-badge&logo=Bootstrap&logoColor=white"></a> 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
   <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-47A248?style=for-the-badge&logo=pycharm&logoColor=white">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Vscode-47A248?style=for-the-badge&logo=vscode&logoColor=white"></a>
 </p>
