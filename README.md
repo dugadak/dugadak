@@ -99,10 +99,6 @@ YAML         8 mins          ░░░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dugadak&theme=github-light&hide_border=true&custom_title=Contribution%20Graph" />
-
 ## 📬 Let's Connect!
 
 <p align="center">
