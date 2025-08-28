@@ -20,12 +20,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1800" />
 
-<!-- GitHub Streak 추가 -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dugadak&hide_border=true&theme=default" />
-
 <!-- 프로필 조회수 -->
-<br/>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=dugadak&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 ## 🎯 Current Focus
@@ -102,8 +98,8 @@ YAML         8 mins          ░░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/dugadak/django-shopping-mall">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=django-shopping-mall&theme=default&hide_border=true" />
+      <a href="https://github.com/dugadak/NST_SNOW">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=NST_SNOW&theme=default&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -112,20 +108,6 @@ YAML         8 mins          ░░░░░░░░░░░░░░░░░
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dugadak&theme=github-light&hide_border=true&custom_title=Contribution%20Graph" />
-
-## 🎮 Fun Facts
-
-<details>
-<summary>Click to expand!</summary>
-
-- 🎯 **2025 Goals**: Master FastAPI, Contribute to Open Source, Build a SaaS Product
-- 🎮 **Favorite Games**: League of Legends, Overwatch 2
-- 🎵 **Coding Music**: Lo-fi Hip Hop, K-Pop
-- ☕ **Coffee per Day**: 3-4 cups (can't code without it!)
-- 📚 **Currently Reading**: Clean Code by Robert C. Martin
-- 🌱 **Learning Next**: Kubernetes, GraphQL, Rust
-
-</details>
 
 ## 📬 Let's Connect!
 
