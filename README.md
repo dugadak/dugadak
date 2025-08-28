@@ -17,7 +17,7 @@
 </p>
 
 <!-- GitHub Stats 원본 URL로 복원 + 캐시 무시 파라미터 -->
-<!-- Real Commits: 452 (Updated: 2025-08-28 14:28) -->
+<!-- Real Commits: 234 (GitHub Search API) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1&t=1756391305" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1&v=2" />
 
