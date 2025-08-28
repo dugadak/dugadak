@@ -5,6 +5,10 @@
   <a href="https://www.linkedin.com/in/%EB%B3%91%EC%A4%80-%EC%9D%B4-006b04230/" target="_blank"><img src="https://img.shields.io/badge/이병준-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://velog.io/@yya70bb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
+
+<!-- 타이핑 효과 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Developer+%F0%9F%92%BB;Python+%26+Django+Specialist+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+
 <p>
   Hello I am a new developer specializing in Backend development.<br/>
   We are working on it based on Python DJango.<br/><br/>
@@ -12,13 +16,42 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=white&count_private=true)
-  
- 
+<!-- GitHub Stats 수정된 URL -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1800" />
 
+<!-- GitHub Streak 추가 -->
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dugadak&hide_border=true&theme=default" />
 
-  
-  
+<!-- 프로필 조회수 -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=dugadak&color=blueviolet&style=flat-square&label=Profile+Views" />
+
+## 🎯 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓_Learning-FastAPI-009688?style=for-the-badge" />
+      <br/>Modern Python Web Framework
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔨_Working_on-StudyMate_API-FF6B6B?style=for-the-badge" />
+      <br/>AI-Powered Study Platform
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚_Reading-Clean_Code-4ECDC4?style=for-the-badge" />
+      <br/>Software Craftsmanship
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dugadak&theme=flat&column=7&margin-w=10" />
+</p>
 
 ## Platforms & Languages
 <p>
@@ -49,5 +82,63 @@
   <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-47A248?style=for-the-badge&logo=pycharm&logoColor=white">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Vscode-47A248?style=for-the-badge&logo=vscode&logoColor=white"></a>
 </p>
+
+## 📊 Weekly Development Breakdown
+
+```text
+Python       15 hrs 42 mins  ████████████████▓░░░  82.14%
+Django       2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░  13.24%
+Docker       45 mins         █░░░░░░░░░░░░░░░░░░░   3.92%
+YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░   0.70%
+```
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/StudyMate-ComPany/StudyMate-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=StudyMate-ComPany&repo=StudyMate-API&theme=default&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dugadak/django-shopping-mall">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=django-shopping-mall&theme=default&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dugadak&theme=github-light&hide_border=true&custom_title=Contribution%20Graph" />
+
+## 🎮 Fun Facts
+
+<details>
+<summary>Click to expand!</summary>
+
+- 🎯 **2025 Goals**: Master FastAPI, Contribute to Open Source, Build a SaaS Product
+- 🎮 **Favorite Games**: League of Legends, Overwatch 2
+- 🎵 **Coding Music**: Lo-fi Hip Hop, K-Pop
+- ☕ **Coffee per Day**: 3-4 cups (can't code without it!)
+- 📚 **Currently Reading**: Clean Code by Robert C. Martin
+- 🌱 **Learning Next**: Kubernetes, GraphQL, Rust
+
+</details>
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or just a friendly chat!</i><br/>
+  <b>Open to exciting backend development opportunities!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
+
 </div>
 </div>
