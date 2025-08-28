@@ -16,9 +16,9 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-<!-- GitHub Stats with cache bypass -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=00000000" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000" />
+<!-- GitHub Stats 원본 URL로 복원 + 캐시 무시 파라미터 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1&v=2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1&v=2" />
 
 <!-- 프로필 조회수 -->
 <br/><br/>
