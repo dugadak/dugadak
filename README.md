@@ -43,12 +43,6 @@
   </tr>
 </table>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dugadak&theme=flat&column=7&margin-w=10" />
-</p>
-
 ## Platforms & Languages
 <p>
   
