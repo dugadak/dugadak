@@ -2,8 +2,9 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # 매시간 실행 (자주 업데이트)
+    - cron: '0 * * * *'
+  workflow_dispatch: # 수동 실행 가능
   push:
     branches: [ main ]
 
@@ -12,101 +13,36 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+    
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
     
     - name: Install dependencies
-      run: pip install requests
+      run: |
+        pip install requests
     
-    - name: Update GitHub Stats
+    - name: Update GitHub Stats and README
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        cat > update_stats.py << 'EOF'
-        import os
-        import requests
-        
-        def get_github_stats(username, token):
-            headers = {'Authorization': f'token {token}'}
-            
-            # 전체 커밋 수
-            commits_url = f'https://api.github.com/search/commits?q=author:{username}'
-            commits_resp = requests.get(commits_url, headers=headers)
-            total_commits = commits_resp.json().get('total_count', 0) if commits_resp.status_code == 200 else 0
-            
-            # PR 수
-            pr_url = f'https://api.github.com/search/issues?q=author:{username}+type:pr'
-            pr_resp = requests.get(pr_url, headers=headers)
-            total_prs = pr_resp.json().get('total_count', 0) if pr_resp.status_code == 200 else 0
-            
-            # Issue 수
-            issue_url = f'https://api.github.com/search/issues?q=author:{username}+type:issue'
-            issue_resp = requests.get(issue_url, headers=headers)
-            total_issues = issue_resp.json().get('total_count', 0) if issue_resp.status_code == 200 else 0
-            
-            # Star 수
-            total_stars = 0
-            repos_url = f'https://api.github.com/users/{username}/repos?per_page=100'
-            repos_resp = requests.get(repos_url, headers=headers)
-            if repos_resp.status_code == 200:
-                for repo in repos_resp.json():
-                    total_stars += repo.get('stargazers_count', 0)
-            
-            return {
-                'stars': total_stars,
-                'commits': total_commits,
-                'prs': total_prs,
-                'issues': total_issues,
-                'contributed': 6
-            }
-        
-        def update_gist(gist_id, content, token):
-            url = f'https://api.github.com/gists/{gist_id}'
-            headers = {'Authorization': f'token {token}'}
-            
-            get_resp = requests.get(url, headers=headers)
-            if get_resp.status_code != 200:
-                return False
-            
-            gist_data = get_resp.json()
-            filename = list(gist_data['files'].keys())[0]
-            
-            data = {
-                'files': {
-                    filename: {
-                        'content': content
-                    }
-                }
-            }
-            
-            response = requests.patch(url, headers=headers, json=data)
-            return response.status_code == 200
-        
-        username = 'dugadak'
-        token = os.environ.get('GH_TOKEN')
-        
-        if not token:
-            print("Error: GH_TOKEN not found")
-            exit(1)
-        
-        print(f"Fetching stats for {username}...")
-        stats = get_github_stats(username, token)
-        
-        stats_content = f"""⭐    Total Stars:                            {stats['stars']:>5}
-        ➕    Total Commits:                          {stats['commits']:>5}
-        🔀    Total PRs:                              {stats['prs']:>5}
-        🚩    Total Issues:                           {stats['issues']:>5}
-        📦    Contributed to:                         {stats['contributed']:>5}"""
-        
-        print("Updating stats gist...")
-        if update_gist('6c0bbb105e1e069e12e4bcca7660ab47', stats_content, token):
-            print("✅ Stats updated!")
-        else:
-            print("❌ Failed to update stats")
-        
-        print(f"\nUpdated stats:\n{stats_content}")
-        EOF
-        
-        python update_stats.py
+        # 스크립트 실행
+        python update_stats.py || python3 update_stats.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔄 Auto-update GitHub stats (Real: 445+ commits) [skip ci]"
+          git push
+        fi
