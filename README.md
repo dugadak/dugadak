@@ -11,15 +11,14 @@
 
 <p>
   Hello I am a new developer specializing in Backend development.<br/>
-  We are working on it based on Python DJango.<br/><br/>
+  We are working on it based on Python Django.<br/><br/>
   I enjoy computer game, listening to music and Reading. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-<!-- GitHub Stats 원본 URL로 복원 + 캐시 무시 파라미터 -->
-<!-- Real Commits: 452 (Total Commits) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1&t=1756480103" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1&v=2" />
+<!-- GitHub Stats - 캐시 파라미터 제거 및 간단한 버전 사용 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true" />
 
 <!-- 프로필 조회수 -->
 <br/><br/>
@@ -34,7 +33,7 @@
       <br/>Modern Python Web Framework
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔨_Working_on-StudyMate_API-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🔨_Working_on-Backend_API-FF6B6B?style=for-the-badge" />
       <br/>AI-Powered Study Platform
     </td>
     <td align="center">
@@ -61,7 +60,7 @@
   <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a href="https://flask.pocoo.org/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
@@ -88,13 +87,13 @@ YAML         8 mins          ░░░░░░░░░░░░░░░░░
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/StudyMate-ComPany/StudyMate-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=StudyMate-ComPany&repo=StudyMate-API&theme=default&hide_border=true" />
+      <a href="https://github.com/dugadak/NST_SNOW">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=NST_SNOW&theme=default&hide_border=true" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/dugadak/NST_SNOW">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=NST_SNOW&theme=default&hide_border=true" />
+      <a href="https://github.com/dugadak/ecoandrich">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dugadak&repo=ecoandrich&theme=default&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -113,5 +112,4 @@ YAML         8 mins          ░░░░░░░░░░░░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
 
-</div>
 </div>
