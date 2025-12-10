@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Developer+%F0%9F%92%BB;Python+%26+Django+Specialist+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
-  Hello I am a new developer specializing in Backend development.<br/>
+  Hello I am a developer specializing in Backend development.<br/>
   We are working on it based on Python Django.<br/><br/>
   I enjoy computer game, listening to music and Reading. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
