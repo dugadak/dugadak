@@ -17,8 +17,8 @@
 </p>
 
 <!-- GitHub Stats - 캐시 파라미터 제거 및 간단한 버전 사용 -->
-<!-- Real Commits: 3368 (Updated: 2026-05-26 19:53) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1&t=1779825195" />
+<!-- Real Commits: 3368 (Updated: 2026-05-26 21:26) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugadak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1&t=1779830784" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugadak&layout=compact&hide_border=true&theme=default&count_private=true" />
 
 <!-- 프로필 조회수 -->
